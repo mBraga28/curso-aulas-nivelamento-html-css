@@ -135,4 +135,26 @@ footer {
     html {
         font-size: 24px;
     }
+
+    .portfolio-item {
+        width: 280px;
+    }
+
+    .nav-container {
+        display: flex;
+    }
+
+    .nav-main {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .nav-brand {
+        margin-bottom: 0;
+        font-size: 30px;
+    }
+
+    .menu-items li {
+        font-size: 18px;
+    }
  }
